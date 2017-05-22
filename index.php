@@ -1,3 +1,1 @@
-<?php 
-echo "Hello world!";
-echo phinfo();?>
+<?php echo "Hello world!2";?>
